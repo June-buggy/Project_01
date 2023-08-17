@@ -2,8 +2,6 @@
 
 **Research Question:** How does the availability of mental health benefits impact the utilization of resources among employees and self-employed individuals?
 
-**Data**: The analysis is based on a dataset ('mental-heath-in-tech-2016_20161114.csv') containing information about mental health coverage and utilization among tech industry workers.
-
 **Methodology**: The analysis involves data cleaning, transformation, filtering, and visualization using Pandas and Matplotlib libraries in Python.
 
 **Analysis Summary:**
@@ -19,4 +17,4 @@ Self-Employed Challenges: Interestingly, a higher percentage of self-employed in
 
 **Implications**: These findings hold important implications for employers and policymakers. Employers should consider proactive measures to encourage the utilization of mental health resources, such as promoting awareness campaigns and fostering a supportive workplace culture. For self-employed individuals, tailored interventions may be needed to address the barriers preventing them from seeking help despite having access to resources.
 
-In conclusion, this analysis sheds light on utilizing mental health resources among employees and self-employed individuals in the tech industry. The results emphasize the need for targeted strategies to bridge the gap between resource availability and utilization, ultimately fostering better mental health support within the workforce.
+**Conclusion**: This analysis sheds light on utilizing mental health resources among employees and self-employed individuals in the tech industry. The results emphasize the need for targeted strategies to bridge the gap between resource availability and utilization, ultimately fostering better mental health support within the workforce.
