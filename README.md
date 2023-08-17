@@ -1,4 +1,4 @@
-# Project_01
+# Project 1: Mental Health Analysis in the Tech Industry
 
 **Research Question:** How does the availability of mental health benefits impact the utilization of resources among employees and self-employed individuals?
 
