@@ -1,11 +1,11 @@
 # Project_01
 
-Our goal 
+  Overview: In this project, we worked collaboratively to find and analyze a dataset related to mental health in the tech industry. The primary goal of this project was to explore various aspects of mental health working in the tech field. We analyzed survey data to identify trends, correlations, and insights that shed light on the state of mental health in the tech industry. 
+
+  Project Focus: Mental Health in Tech. The tech industry is known for long hours at desks and high-pressure work environments. My analysis revolved around investigating how anonymity affects mental health by examining survey data collected from industry professionals. I searched for patterns and trends that might indicate a connection between mental health and work-related factors that impact on employees' mental health.
 
 Questions we are answering:
-
 What are the factors affecting Mental Health Resource-Seeking?
-
 **1. Does resource seeking change by geographical location? - Kevin**
     i. Visualize resource seeking using a map
   a. What, if any, is the correlation between company size and employees seeking mental health resources? - Kevin
