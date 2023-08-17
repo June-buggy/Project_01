@@ -4,8 +4,10 @@
 
   Project Focus: Mental Health in Tech. The tech industry is known for long hours at desks and high-pressure work environments. My analysis revolved around investigating how anonymity affects mental health by examining survey data collected from industry professionals. I searched for patterns and trends that might indicate a connection between mental health and work-related factors that impact on employees' mental health.
 
-Questions we are answering:
-What are the factors affecting Mental Health Resource-Seeking?
+## Questions we are answering:
+
+## What are the factors affecting Mental Health Resource-Seeking?
+
 **1. Does resource seeking change by geographical location? - Kevin**
     i. Visualize resource seeking using a map
   a. What, if any, is the correlation between company size and employees seeking mental health resources? - Kevin
