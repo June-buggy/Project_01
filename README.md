@@ -3,7 +3,7 @@
 # KD README
 
 
-my code will require a geopandas installation\n
+my code will require a geopandas installation<br>
 terminal commands to install geopandas here: 
 pip install geopandas
 pip install geopandas fiona
