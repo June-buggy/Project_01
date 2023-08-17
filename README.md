@@ -16,5 +16,3 @@
           When both groups were asked if identifying as a person with a mental health issue would hurt their career, I found a strong correlation between the two. What stood out the most is the level of uncertainty in disclosing such information. Most of these responses were not only "Maybe" but also "Yes, I think it would." This suggests that individuals perceive potential negative effects on their career if they were to be identified with a mental health issue.
 ## Conclusion
     In conclusion, this analysis provides valuable insights into the perceptions of self-employed and employed individuals regarding mental health and its impact on their careers. The findings emphasize the importance of addressing mental health stigma and promoting open conversations within both self-employment and traditional employment settings. By recognizing and addressing these concerns, we can work towards creating more inclusive and supportive workplaces that prioritize the well-being of all employees.
-    
-
