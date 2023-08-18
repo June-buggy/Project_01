@@ -28,8 +28,10 @@ The tech industry is known for long hours at desks and high-pressure work enviro
      - Key Findings:
         - Mood disorders and Anxiety disorders were by far the most commonly reported mental health disorders among respondents
         - The majority of mental health seekers were Male(69.9%), versus Female(26.6%), Non-Binary(1.9%), and Genderqueer(1.6%)- this was skewed due to a predominantly male tech industry
-        - Genderqueer and Non-Binary respondents were far more likely than other groups to have a past or current mental health disorder
+        - Genderqueer and Non-Binary respondents were far more likely than binary-gendered groups to have a past or current mental health disorder
         - More than 50% of all employees across all companies sought mental health resources if they were offered
+        - Hybrid workers accounted for a stark plurality of MHR-seekers, followed by In-Person workers
+        - Coupled with the majority disorders, there is likely an exacerbating effect of switching between office and home locations, or environmental conditions in the office.  This is a fascinating data point worth further investigation.
 
 2. How Does Autonomy Affect Mental Health? - Maxiel
 - d. Does self-employment positively affect mental health status?
